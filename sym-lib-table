@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LeapFrog")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LeapFrog.kicad_sym")(options "")(descr ""))
+  (lib (name "ST-TF-003A")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ST-TF-003A.kicad_sym")(options "")(descr ""))
+)

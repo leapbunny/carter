@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MicroSD")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MicroSD.pretty")(options "")(descr ""))
+  (lib (name "ST-TF")(type "KiCad")(uri "${KIPRJMOD}/Footprints/ST-TF.pretty")(options "")(descr ""))
+  (lib (name "LeapFrog")(type "KiCad")(uri "${KIPRJMOD}/Footprints/LeapFrog.pretty")(options "")(descr ""))
+)
