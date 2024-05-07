@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LeapFrog:LeapFrog-Cart"
+		(property "Footprint" "LeapFrog:Cartridge"
 			(at 0 10.16 0)
 			(effects
 				(font
