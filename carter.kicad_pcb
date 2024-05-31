@@ -4326,7 +4326,7 @@
 		)
 		(fp_arc
 			(start 6.1679 9.656)
-			(mid 5.659557 9.609613)
+			(mid 5.659554 9.609621)
 			(end 5.168 9.472)
 			(stroke
 				(width 0.127)
@@ -5547,19 +5547,6 @@
 			(font
 				(size 1 1)
 				(thickness 0.1)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "ON\n"
-		(at 153.4 93.5 180)
-		(layer "F.SilkS")
-		(uuid "2a3082c5-3d01-4a0c-8f2e-ab1ce17a46d8")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
 			)
 			(justify left bottom)
 		)
